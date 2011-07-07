@@ -1,0 +1,4 @@
+www:
+  type: wsgi
+db:
+  type: postgresql
